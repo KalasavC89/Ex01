@@ -51,11 +51,11 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
 
-        System.out.println("My name is YourName");
+        System.out.println("My name is Chintan");
         System.out.println();
 
         System.out.println("My career ambitions:");
-        System.out.println("-- Your career ambitions here");
+        System.out.println("VLogger");
 
         System.out.println("My hobbies:");
         System.out.println("-- Your hobbies here");
